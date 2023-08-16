@@ -1,10 +1,10 @@
 # Automated-Attendance-System-using-Face-Detection
 
 
-FaceCheck Attendance System
+#FaceCheck Attendance System
 The FaceCheck Attendance System is a cutting-edge solution designed to revolutionize traditional attendance tracking methods through the power of facial detection and recognition technology. This system offers an efficient and accurate alternative to manual attendance processes, eliminating the need for paper registers or swipe cards.
 
-Features
+#Features
 Face Detection and Recognition: Utilizes advanced facial recognition algorithms to authenticate individuals based on their unique facial features, ensuring secure and authorized attendance marking.
 
 Real-time Tracking: Operates in real-time, providing instant and accurate attendance records as soon as a person's face is detected and recognized.
